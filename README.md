@@ -9,5 +9,5 @@ FROM php:7.3-cli
 This image is also pushed(CI/CD) to public hub.docker.com account
 
 ```
-docker pull sd2020/php-fpm
+docker pull sd2020/php-cli
 ```
